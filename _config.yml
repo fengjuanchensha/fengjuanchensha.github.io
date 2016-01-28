@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dingjm Blog
+name: 丁纪名
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 做一个快乐的人
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://fengjuanchensha/fengjuanchensha.github.io/master/images/jekyll-logo.png
+avatar: https://fengjuanchensha.github.io/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
